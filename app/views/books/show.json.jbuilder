@@ -1,0 +1,1 @@
+json.(@book, :title, :language_code, :num_pages)
