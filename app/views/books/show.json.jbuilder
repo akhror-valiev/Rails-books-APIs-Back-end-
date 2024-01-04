@@ -1,1 +1,1 @@
-json.(@book, :title, :language_code, :num_pages)
+json.partial! @book, as: :book
